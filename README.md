@@ -7,8 +7,7 @@ CSE AI/ML Computer Vision Assignment — automatic player tracking + game commen
 | Sport | Demo Link |
 | :--- | :--- |
 | **⚽ Football** | [View Full Analysis Video](https://drive.google.com/file/d/1ByJYedIEyCkHDgtrppMtY6GIOKiRd0F3/view?usp=drive_link) |
-| **🏐 Volleyball** | *Coming Soon...* |
-| **🏀 Basketball** | *Coming Soon...* |
+| **🏀 Basketball** | [View Full Analysis Video](https://drive.google.com/file/d/1Cd9BJZf-xVGyst7IKGj45owxd6o-5XCg/view?usp=drive_link) |
 
 ## Project Structure
 
