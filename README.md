@@ -2,6 +2,14 @@
 
 CSE AI/ML Computer Vision Assignment — automatic player tracking + game commentary overlay.
 
+## 📽️ Project Demos
+
+| Sport | Demo Link |
+| :--- | :--- |
+| **⚽ Football** | [View Full Analysis Video](https://drive.google.com/file/d/1ByJYedIEyCkHDgtrppMtY6GIOKiRd0F3/view?usp=drive_link) |
+| **🏐 Volleyball** | *Coming Soon...* |
+| **🏀 Basketball** | *Coming Soon...* |
+
 ## Project Structure
 
 ```
