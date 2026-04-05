@@ -14,7 +14,6 @@ CSE AI/ML Computer Vision Assignment — automatic player tracking + game commen
 ```
 Sports/
 ├── input/                  ← Drop raw campus videos here
-│   ├── 20260402_175953.mp4   (volleyball)
 │   ├── 20260402_180711.mp4   (basketball)
 │   └── input.mp4             (football)
 ├── output/                 ← Generated annotated videos appear here
@@ -88,7 +87,6 @@ Edit the `SPORT_MAP` in `run_all.py` if your filenames differ:
 
 ```python
 SPORT_MAP = {
-    "20260402_175953.mp4": "volleyball",
     "20260402_180711.mp4": "basketball",
     "input.mp4":           "football",
 }
